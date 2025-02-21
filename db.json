@@ -2,21 +2,21 @@
     "users": [
             {
               "id":1,
-              "username":"manolo",
+              "username":"Villegas",
               "state":true,
                 "deck":[1,2,3,4,5] 
             },
             {
               "id":2,
-              "username":"cheira",
+              "username":"Merlin",
               "state":true,
                 "deck":[50,20,31,46,58] 
             },
             {
               "id":3,
-              "username":"escandon",
+              "username":"Nieves",
               "state":true,
-                "deck":[501,202,317,463,589] 
+                "deck":[100,73,45,89,123] 
             }
           ]
     ,
